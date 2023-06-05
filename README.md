@@ -6,5 +6,5 @@ Jogo com formulário para tela de login de jogador e cronômetro para tempo de j
 Tecnologias utilizadas:
 
     • JavaScript
-    • HTML
-    • CSS
+    • HTML5
+    • CSS3
